@@ -19,7 +19,7 @@ import java.util.UUID;
 
 /**
  * Created by wangyushuai@fang.com on 2018/7/12.
- * WebUploader 实例之前我是用.net写的，在这补发一个java的demo
+ * WebUploader 实例之前我是用.net写的，由于有些小朋友看不懂C#，在这里补发一个java的demo
  */
 @Controller
 @RequestMapping("/upload")
